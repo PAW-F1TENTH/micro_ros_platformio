@@ -128,7 +128,7 @@ class Sources:
             Repository("micro-CDR", "https://github.com/eProsima/micro-CDR", "iron", "ros2"),
             Repository("Micro-XRCE-DDS-Client", "https://github.com/eProsima/Micro-XRCE-DDS-Client", "iron", "ros2"),
             Repository("rcl", "https://github.com/micro-ROS/rcl", "iron"),
-            Repository("rclc", "https://github.com/ros2/rclc", "iron"),
+            Repository("rclc", "https://github.com/PAW-F1TENTH/rclc.git", "iron"),
             Repository("micro_ros_utilities", "https://github.com/micro-ROS/micro_ros_utilities", "iron"),
             Repository("rcutils", "https://github.com/micro-ROS/rcutils", "iron"),
             Repository("micro_ros_msgs", "https://github.com/micro-ROS/micro_ros_msgs", "iron"),
